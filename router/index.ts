@@ -11,7 +11,7 @@ const routes: Array<RouteRecordRaw> = [
     redirect: { name: 'dashboard' },
   },
   {
-    name: 'admin',
+    name: 'admi',
     path: '/',
     component: AppLayout,
     redirect: { name: 'dashboard' },
